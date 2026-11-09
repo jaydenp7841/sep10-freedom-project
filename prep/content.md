@@ -8,9 +8,25 @@ Topic: **Medical Practice**
 ## Part A: existing technology
 
 ##### Software
-* Tech
-  * Detail
-  * [image text](image URL)
+* The first app I looked up what **Medisafe**
+  * Medisafe is an app that sends reminders to users to take medications.
+  * It sends the user notification on upcoming medical appointments.
+  * This app is normal used when people have a lot of mediacations they need to take at once.
+  * [Medisafe offical website](https://medisafe.com)
+* The second app i looked at was **Bearable**
+  * This app is used to track your symptoms.
+  * It's mostly used when people have a hard time remembering something when speaking to a doctor.
+  * Bearable doesn't only track sleep as it tracks many other things such as sleep, mood and energy.
+  * Bearable also sends reminders to log any symptoms that someone might experience.
+  * Bearable also has a free and paid version of there app (Free vs Premium).
+  * [Bearable offical website](https://bearable.app)
+* The third app I looked at was **MyChart**
+  * This app was created by the Epic (The Epic that allows you to read books) for NYC health hospitals and was made so doctors can contact patients.
+  * It also allows patients to request prescription refills and review medical records
+  * MyChart also allows you to schedule appointments
+  * Another feature is that you can check your results and pay for your medical bills from the app
+  * [Offical NYC health hospital website](https://www.nychealthandhospitals.org) 
+
 
 ##### Hardware
 * Nebulizer
