@@ -3,7 +3,7 @@
 
 ## Content
 
-text
+Since the last blog I have found a couple of medical devices that are currently available for everyone to purchase. The device I want to look into the most is the **Negative Pressure wound Therapy Pump**, this device i able to heal certain wounds a lot faster by removing fluid and bacteria, which was backed up by this [website](https://my.clevelandclinic.org/health/treatments/17313-negative-pressure-wound-therapy). 
 
 ## Engineering Design Process (EDP)
 
