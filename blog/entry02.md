@@ -13,6 +13,10 @@ I am currently on the second step of the design process, this step is all about 
 
 One of the skills that improved was **How to Google**, as finding trusted information is difficult. Most information online isn't always trustable, by remembering that _.gov_ and _.edu_ we're always trustable, I was able to find information that I knew was supported by many.
 
+Another skill that I improved was **How to read**. This skill allowed me to find sections within articles that aligned with what I was researching about. I also made sure to read everything in the article as some lines with in article can provide the missing piece I need to advance to the next step in the design process.
+
+One skill that I learned is Problem decomposition, this skill allowed me to split up the work needed for researching into different parts. In this way I wouldn't get burnt out from trying to research everything in one sitting.
+
 [Previous](entry01.md) | [Next](entry03.md)
 
 [Home](../README.md)
