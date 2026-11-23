@@ -11,7 +11,7 @@ I am currently on the second step of the design process, this step is all about 
 
 ## Skills
 
-text
+One of the skills that improved was **How to Google**, as finding trusted information is difficult. Most information online isn't always trustable, by remembering that _.gov_ and _.edu_ we're always trustable, I was able to find information that I knew was supported by many.
 
 [Previous](entry01.md) | [Next](entry03.md)
 
