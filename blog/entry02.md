@@ -1,7 +1,17 @@
 # Entry 2
-##### X/X/XX
+##### 11/23/26
 
-Text
+## Content
+
+text
+
+## Engineering Design Process (EDP)
+
+text
+
+## Skills
+
+text
 
 [Previous](entry01.md) | [Next](entry03.md)
 
